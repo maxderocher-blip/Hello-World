@@ -2,13 +2,13 @@
 My first practice repository
 
 ## **<ins>Table of Contents</ins>**
-1. PROJECT TITLE(#Project-Title)
-2. DESCRIPTION(#Description)
-3. TOOLS USED(#Tools-Used)
-5. HOW TO RUN PROGRAM(#How-to-Run-Program)
-6. ADDITIONAL INFORMATION(#Additional-Information)
+1. PROJECT TITLE
+2. DESCRIPTION
+3. TOOLS USED
+5. HOW TO RUN PROGRAM
+6. ADDITIONAL INFORMATION
 
-## **<ins>Project Title</ins>**
+## **<ins>Project _Title_</ins>**
 
 _"Max Repository #1"_
 
