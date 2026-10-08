@@ -1,7 +1,7 @@
 # Hello-World
 My first practice repository
 
-##**<ins>Table of Contents</ins>**
+## **<ins>Table of Contents</ins>**
 1. PROJECT TITLE(#Project-Title)
 2. DESCRIPTION(#Description)
 3. TOOLS USED(#Tools-Used)
