@@ -22,3 +22,13 @@ I asked the user for their age as and integer using an input function. I then us
 ## **<ins>Tools Used</ins>**
 
 I used Python in Spyder to code this project.
+
+## **<ins>Files Used</ins>**
+
+## **<ins>How to Run Program</ins>**
+
+Once you are done coding, click the _Run_ button in Python.
+
+## **<ins>Additional Information</ins>**
+
+
